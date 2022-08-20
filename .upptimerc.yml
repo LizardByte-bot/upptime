@@ -8,7 +8,11 @@ sites:
   - name: database
     url: https://db.lizardbyte.dev
   - name: cache
-    url: https://app.lizardbyte.dev/uno/
+    url: https://app.lizardbyte.dev/uno
+  - name: docs
+    url: https://docs.lizardbyte.dev
+  - name: feedback board
+    url: https://feedback.lizardbyte.dev
 #  - name: discord-bot
 #    url: $DISCORD_BOT_URL
 #  - name: reddit-bot
