@@ -76,17 +76,19 @@
     "url": "https://feedback.lizardbyte.dev",
     "icon": "https://favicons.githubusercontent.com/feedback.lizardbyte.dev",
     "slug": "feedback-board",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 458,
     "timeDay": 458,
     "timeWeek": 458,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-21": 0
+    }
   }
 ]
