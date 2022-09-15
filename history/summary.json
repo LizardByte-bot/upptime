@@ -4,9 +4,9 @@
     "url": "https://app.lizardbyte.dev",
     "icon": "https://favicons.githubusercontent.com/app.lizardbyte.dev",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 200,
     "timeMonth": 169,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "database",
     "url": "https://db.lizardbyte.dev",
     "icon": "https://favicons.githubusercontent.com/db.lizardbyte.dev",
     "slug": "database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,14 +35,16 @@
     "timeWeek": 233,
     "timeMonth": 170,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "cache",
     "url": "https://app.lizardbyte.dev/uno",
     "icon": "https://favicons.githubusercontent.com/app.lizardbyte.dev",
     "slug": "cache",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 104,
     "timeMonth": 74,
     "timeYear": 74,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "docs",
