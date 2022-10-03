@@ -2,7 +2,7 @@
   {
     "name": "website",
     "url": "https://app.lizardbyte.dev",
-    "icon": "https://favicons.githubusercontent.com/app.lizardbyte.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/app.lizardbyte.dev.ico",
     "slug": "website",
     "status": "up",
     "uptime": "99.92%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
-    "time": 160,
-    "timeDay": 103,
-    "timeWeek": 148,
+    "time": 162,
+    "timeDay": 260,
+    "timeWeek": 168,
     "timeMonth": 160,
-    "timeYear": 160,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2022-09-15": 48
     }
@@ -22,7 +22,7 @@
   {
     "name": "database",
     "url": "https://db.lizardbyte.dev",
-    "icon": "https://favicons.githubusercontent.com/db.lizardbyte.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/db.lizardbyte.dev.ico",
     "slug": "database",
     "status": "up",
     "uptime": "99.92%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
-    "time": 156,
-    "timeDay": 92,
-    "timeWeek": 148,
-    "timeMonth": 159,
-    "timeYear": 156,
+    "time": 157,
+    "timeDay": 186,
+    "timeWeek": 145,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2022-09-15": 48
     }
@@ -42,7 +42,7 @@
   {
     "name": "cache",
     "url": "https://app.lizardbyte.dev/uno",
-    "icon": "https://favicons.githubusercontent.com/app.lizardbyte.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/app.lizardbyte.dev.ico",
     "slug": "cache",
     "status": "up",
     "uptime": "99.92%",
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
     "time": 69,
-    "timeDay": 14,
-    "timeWeek": 48,
-    "timeMonth": 71,
+    "timeDay": 103,
+    "timeWeek": 59,
+    "timeMonth": 68,
     "timeYear": 69,
     "dailyMinutesDown": {
       "2022-09-15": 48
@@ -62,7 +62,7 @@
   {
     "name": "docs",
     "url": "https://docs.lizardbyte.dev",
-    "icon": "https://favicons.githubusercontent.com/docs.lizardbyte.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/docs.lizardbyte.dev.ico",
     "slug": "docs",
     "status": "up",
     "uptime": "100.00%",
@@ -70,17 +70,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 456,
-    "timeWeek": 548,
-    "timeMonth": 469,
-    "timeYear": 448,
+    "time": 457,
+    "timeDay": 865,
+    "timeWeek": 603,
+    "timeMonth": 470,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   },
   {
     "name": "feedback board",
     "url": "https://feedback.lizardbyte.dev",
-    "icon": "https://favicons.githubusercontent.com/feedback.lizardbyte.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/feedback.lizardbyte.dev.ico",
     "slug": "feedback-board",
     "status": "up",
     "uptime": "100.00%",
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 434,
-    "timeWeek": 532,
-    "timeMonth": 604,
-    "timeYear": 615,
+    "time": 618,
+    "timeDay": 751,
+    "timeWeek": 571,
+    "timeMonth": 603,
+    "timeYear": 618,
     "dailyMinutesDown": {}
   }
 ]
