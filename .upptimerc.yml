@@ -13,6 +13,8 @@ sites:
     url: https://docs.lizardbyte.dev
   - name: feedback board
     url: https://feedback.lizardbyte.dev
+  - name: ThemerrDB
+    url: https://app.lizardbyte.dev/ThemerrDB
 #  - name: discord-bot
 #    url: $DISCORD_BOT_URL
 #  - name: reddit-bot
