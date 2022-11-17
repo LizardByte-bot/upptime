@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 168,
-    "timeDay": 224,
-    "timeWeek": 162,
-    "timeMonth": 180,
+    "timeDay": 214,
+    "timeWeek": 166,
+    "timeMonth": 181,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2022-09-15": 48
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 162,
-    "timeDay": 242,
-    "timeWeek": 169,
+    "time": 163,
+    "timeDay": 222,
+    "timeWeek": 171,
     "timeMonth": 171,
-    "timeYear": 162,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2022-09-15": 48
     }
@@ -51,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 74,
-    "timeDay": 119,
+    "timeDay": 105,
     "timeWeek": 77,
     "timeMonth": 81,
     "timeYear": 74,
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 563,
-    "timeWeek": 490,
-    "timeMonth": 509,
-    "timeYear": 475,
+    "time": 474,
+    "timeDay": 516,
+    "timeWeek": 482,
+    "timeMonth": 507,
+    "timeYear": 474,
     "dailyMinutesDown": {}
   },
   {
@@ -89,12 +89,30 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 605,
-    "timeDay": 594,
-    "timeWeek": 592,
-    "timeMonth": 600,
+    "timeDay": 578,
+    "timeWeek": 586,
+    "timeMonth": 599,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2022-11-09": 36
     }
+  },
+  {
+    "name": "ThemerrDB",
+    "url": "https://app.lizardbyte.dev/ThemerrDB",
+    "icon": "https://icons.duckduckgo.com/ip3/app.lizardbyte.dev.ico",
+    "slug": "themerr-db",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 122,
+    "timeDay": 122,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
+    "dailyMinutesDown": {}
   }
 ]
