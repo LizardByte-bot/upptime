@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 209,
-    "timeDay": 178,
-    "timeWeek": 166,
-    "timeMonth": 306,
-    "timeYear": 209,
+    "time": 208,
+    "timeDay": 121,
+    "timeWeek": 157,
+    "timeMonth": 303,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2022-09-15": 48
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 162,
-    "timeDay": 185,
-    "timeWeek": 168,
-    "timeMonth": 171,
-    "timeYear": 162,
+    "time": 161,
+    "timeDay": 93,
+    "timeWeek": 151,
+    "timeMonth": 166,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2022-09-15": 48
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 73,
-    "timeDay": 99,
-    "timeWeek": 79,
-    "timeMonth": 80,
+    "timeDay": 56,
+    "timeWeek": 77,
+    "timeMonth": 77,
     "timeYear": 73,
     "dailyMinutesDown": {
       "2022-09-15": 48
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 467,
-    "timeDay": 250,
-    "timeWeek": 419,
-    "timeMonth": 505,
+    "timeDay": 442,
+    "timeWeek": 396,
+    "timeMonth": 493,
     "timeYear": 467,
     "dailyMinutesDown": {}
   },
@@ -83,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/feedback.lizardbyte.dev.ico",
     "slug": "feedback-board",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
-    "time": 595,
-    "timeDay": 550,
-    "timeWeek": 536,
-    "timeMonth": 578,
-    "timeYear": 595,
+    "uptimeYear": "99.98%",
+    "time": 593,
+    "timeDay": 430,
+    "timeWeek": 520,
+    "timeMonth": 569,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2022-11-09": 36
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 83,
-    "timeDay": 76,
-    "timeWeek": 92,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "time": 79,
+    "timeDay": 33,
+    "timeWeek": 86,
+    "timeMonth": 79,
+    "timeYear": 79,
     "dailyMinutesDown": {}
   }
 ]
