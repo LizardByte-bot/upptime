@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 193,
-    "timeDay": 148,
-    "timeWeek": 215,
-    "timeMonth": 183,
-    "timeYear": 193,
+    "time": 192,
+    "timeDay": 114,
+    "timeWeek": 207,
+    "timeMonth": 179,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2022-09-15": 48
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 158,
-    "timeDay": 152,
-    "timeWeek": 142,
-    "timeMonth": 159,
-    "timeYear": 158,
+    "time": 157,
+    "timeDay": 74,
+    "timeWeek": 129,
+    "timeMonth": 154,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2022-09-15": 48
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 72,
-    "timeDay": 70,
-    "timeWeek": 61,
-    "timeMonth": 84,
+    "timeDay": 16,
+    "timeWeek": 53,
+    "timeMonth": 78,
     "timeYear": 72,
     "dailyMinutesDown": {
       "2022-09-15": 48
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 426,
-    "timeWeek": 406,
-    "timeMonth": 425,
-    "timeYear": 449,
+    "time": 448,
+    "timeDay": 185,
+    "timeWeek": 356,
+    "timeMonth": 403,
+    "timeYear": 448,
     "dailyMinutesDown": {}
   },
   {
@@ -89,9 +89,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 619,
-    "timeDay": 709,
-    "timeWeek": 657,
-    "timeMonth": 674,
+    "timeDay": 615,
+    "timeWeek": 639,
+    "timeMonth": 667,
     "timeYear": 619,
     "dailyMinutesDown": {
       "2023-01-20": 18,
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 62,
-    "timeWeek": 51,
-    "timeMonth": 80,
-    "timeYear": 72,
+    "time": 71,
+    "timeDay": 12,
+    "timeWeek": 43,
+    "timeMonth": 77,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   }
 ]
