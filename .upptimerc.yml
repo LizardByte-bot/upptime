@@ -45,8 +45,9 @@ status-website:
   theme: night
   # custom js
   scripts:
-  - src: https://app.lizardbyte.dev/js/discord.js
-    async: true
+    - src: https://app.lizardbyte.dev/node_modules/jquery/dist/jquery.min.js
+    - src: https://app.lizardbyte.dev/js/discord.js
+      async: true
 
 
 # Upptime also supports notifications, assigning issues, and more
