@@ -29,16 +29,25 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.lizardbyte.dev
   # baseUrl: /upptime
+  # favicon supports PNG or SVG
+  faviconSvg: https://raw.githubusercontent.com/LizardByte/.github/master/branding/logos/logo.svg
   logoUrl: https://raw.githubusercontent.com/LizardByte/.github/master/branding/logos/logo.svg
   name: LizardByte
+  # intro text
   introTitle: "**LizardByte** status page"
   introMessage: ''
+  # custom navbar links
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: night
+  # custom js
+  scripts:
+  - src: https://app.lizardbyte.dev/js/discord.js
+    async: true
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
