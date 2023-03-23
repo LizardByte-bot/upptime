@@ -1,6 +1,6 @@
 [
   {
-    "name": "website",
+    "name": "Website",
     "url": "https://app.lizardbyte.dev",
     "icon": "https://icons.duckduckgo.com/ip3/app.lizardbyte.dev.ico",
     "slug": "website",
@@ -21,48 +21,7 @@
     }
   },
   {
-    "name": "database",
-    "url": "https://db.lizardbyte.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/db.lizardbyte.dev.ico",
-    "slug": "database",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 161,
-    "timeDay": 194,
-    "timeWeek": 175,
-    "timeMonth": 175,
-    "timeYear": 161,
-    "dailyMinutesDown": {
-      "2022-09-15": 48
-    }
-  },
-  {
-    "name": "cache",
-    "url": "https://app.lizardbyte.dev/uno",
-    "icon": "https://icons.duckduckgo.com/ip3/app.lizardbyte.dev.ico",
-    "slug": "cache",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.96%",
-    "time": 75,
-    "timeDay": 79,
-    "timeWeek": 67,
-    "timeMonth": 84,
-    "timeYear": 75,
-    "dailyMinutesDown": {
-      "2023-03-11": 80,
-      "2022-09-15": 48
-    }
-  },
-  {
-    "name": "docs",
+    "name": "Docs",
     "url": "https://docs.lizardbyte.dev",
     "icon": "https://icons.duckduckgo.com/ip3/docs.lizardbyte.dev.ico",
     "slug": "docs",
@@ -80,29 +39,40 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "feedback board",
+    "name": "Feedback",
     "url": "https://feedback.lizardbyte.dev",
     "icon": "https://icons.duckduckgo.com/ip3/feedback.lizardbyte.dev.ico",
-    "slug": "feedback-board",
-    "status": "up",
-    "uptime": "99.82%",
+    "slug": "feedback",
+    "status": "down",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "99.82%",
-    "time": 643,
-    "timeDay": 652,
-    "timeWeek": 737,
-    "timeMonth": 724,
-    "timeYear": 643,
-    "dailyMinutesDown": {
-      "2023-03-21": 74,
-      "2023-03-10": 302,
-      "2023-03-09": 87,
-      "2023-01-20": 18,
-      "2022-12-15": 27,
-      "2022-11-09": 36
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "PluggerDB",
+    "url": "https://app.lizardbyte.dev/ThemerrDB",
+    "icon": "https://icons.duckduckgo.com/ip3/app.lizardbyte.dev.ico",
+    "slug": "plugger-db",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 174,
+    "timeDay": 174,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ThemerrDB",
@@ -123,5 +93,59 @@
     "dailyMinutesDown": {
       "2023-03-11": 80
     }
+  },
+  {
+    "name": "db",
+    "url": "https://db.lizardbyte.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/db.lizardbyte.dev.ico",
+    "slug": "db",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "qodana-reports",
+    "url": "https://app.lizardbyte.dev/qodana-reports",
+    "icon": "https://icons.duckduckgo.com/ip3/app.lizardbyte.dev.ico",
+    "slug": "qodana-reports",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 182,
+    "timeDay": 182,
+    "timeWeek": 182,
+    "timeMonth": 182,
+    "timeYear": 182,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "uno",
+    "url": "https://app.lizardbyte.dev/uno",
+    "icon": "https://icons.duckduckgo.com/ip3/app.lizardbyte.dev.ico",
+    "slug": "uno",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
