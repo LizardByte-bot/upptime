@@ -63,18 +63,20 @@
     "url": "https://app.lizardbyte.dev/ThemerrDB",
     "icon": "https://icons.duckduckgo.com/ip3/app.lizardbyte.dev.ico",
     "slug": "plugger-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 17,
-    "timeWeek": 75,
-    "timeMonth": 87,
-    "timeYear": 85,
-    "dailyMinutesDown": {}
+    "time": 84,
+    "timeDay": 20,
+    "timeWeek": 68,
+    "timeMonth": 85,
+    "timeYear": 84,
+    "dailyMinutesDown": {
+      "2023-05-01": 0
+    }
   },
   {
     "name": "ThemerrDB",
