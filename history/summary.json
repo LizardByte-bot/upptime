@@ -43,9 +43,9 @@
     "url": "https://feedback.lizardbyte.dev",
     "icon": "https://icons.duckduckgo.com/ip3/feedback.lizardbyte.dev.ico",
     "slug": "feedback",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -55,6 +55,7 @@
     "timeMonth": 426,
     "timeYear": 602,
     "dailyMinutesDown": {
+      "2023-08-06": 0,
       "2023-05-04": 34,
       "2023-03-24": 97
     }
