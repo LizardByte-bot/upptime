@@ -24,19 +24,19 @@
     "url": "https://docs.lizardbyte.dev",
     "icon": "https://icons.duckduckgo.com/ip3/docs.lizardbyte.dev.ico",
     "slug": "docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "94.58%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.98%",
     "time": 470,
-    "timeDay": 538,
-    "timeWeek": 496,
-    "timeMonth": 466,
+    "timeDay": 519,
+    "timeWeek": 485,
+    "timeMonth": 462,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2023-12-09": 78
+      "2023-12-09": 90
     }
   },
   {
