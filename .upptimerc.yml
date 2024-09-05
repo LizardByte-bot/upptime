@@ -7,24 +7,16 @@ sites:
     url: https://app.lizardbyte.dev
   - name: Docs
     url: https://docs.lizardbyte.dev
-  - name: Feedback
-    url: https://feedback.lizardbyte.dev
-  - name: PluggerDB
-    url: https://app.lizardbyte.dev/ThemerrDB
+  - name: GameDB
+    url: https://app.lizardbyte.dev/GameDB
   - name: ThemerrDB
     url: https://app.lizardbyte.dev/ThemerrDB
-  - name: db
-    url: https://db.lizardbyte.dev
-  - name: qodana-reports
-    url: https://app.lizardbyte.dev/qodana-reports
+  - name: Developer Dashboard
+    url: https://app.lizardbyte.dev/dashboard
   - name: uno
     url: https://app.lizardbyte.dev/uno
   - name: Crowdin
     url: https://translate.lizardbyte.dev
-#  - name: discord-bot
-#    url: $DISCORD_BOT_URL
-#  - name: reddit-bot
-#    url: $REDDIT_BOT_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -53,7 +45,7 @@ status-website:
 
 
 # Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# See https://upptime.js.org/docs/notifications
 notifications:
   NOTIFICATION_DISCORD: true
   NOTIFICATION_DISCORD_WEBHOOK: true
