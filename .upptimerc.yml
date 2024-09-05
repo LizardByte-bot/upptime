@@ -24,7 +24,7 @@ status-website:
   cname: status.lizardbyte.dev
   # baseUrl: /upptime
   # favicon supports PNG or SVG
-  faviconSvg: https://raw.githubusercontent.com/LizardByte/.github/master/branding/logos/logo.svg
+  favicon: https://raw.githubusercontent.com/LizardByte/.github/master/branding/logos/logo-32x32.png
   logoUrl: https://raw.githubusercontent.com/LizardByte/.github/master/branding/logos/logo.svg
   name: LizardByte
   # intro text
