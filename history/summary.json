@@ -61,18 +61,20 @@
     "url": "https://app.lizardbyte.dev/ThemerrDB",
     "icon": "https://icons.duckduckgo.com/ip3/app.lizardbyte.dev.ico",
     "slug": "themerr-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 22,
-    "timeDay": 42,
-    "timeWeek": 64,
-    "timeMonth": 70,
+    "timeDay": 66,
+    "timeWeek": 67,
+    "timeMonth": 71,
     "timeYear": 28,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-13": 0
+    }
   },
   {
     "name": "Developer Dashboard",
