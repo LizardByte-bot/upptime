@@ -9,8 +9,6 @@ sites:
     url: https://docs.lizardbyte.dev
   - name: GameDB
     url: https://app.lizardbyte.dev/GameDB
-  - name: ThemerrDB
-    url: https://app.lizardbyte.dev/ThemerrDB
   - name: Developer Dashboard
     url: https://app.lizardbyte.dev/dashboard
   - name: uno
