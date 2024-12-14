@@ -3,18 +3,20 @@ owner: LizardByte-bot  # Your GitHub organization or username, where this reposi
 repo: upptime  # The name of this repository
 
 sites:
-  - name: Website
-    url: https://app.lizardbyte.dev
+  - name: Crowdin
+    url: https://translate.lizardbyte.dev
+  - name: Developer Dashboard
+    url: https://app.lizardbyte.dev/dashboard
+  - name: Discord bot
+    url: $DISCORD_BOT_URL/status
   - name: Docs
     url: https://docs.lizardbyte.dev
   - name: GameDB
     url: https://app.lizardbyte.dev/GameDB
-  - name: Developer Dashboard
-    url: https://app.lizardbyte.dev/dashboard
   - name: uno
     url: https://app.lizardbyte.dev/uno
-  - name: Crowdin
-    url: https://translate.lizardbyte.dev
+  - name: Website
+    url: https://app.lizardbyte.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -41,15 +43,11 @@ status-website:
     - src: https://app.lizardbyte.dev/js/discord.js
       async: true
 
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/notifications
-notifications:
-  NOTIFICATION_DISCORD: true
-  NOTIFICATION_DISCORD_WEBHOOK: true
-  NOTIFICATION_DISCORD_WEBHOOK_URL: $DISCORD_WEBHOOK_URL
-
 # https://upptime.js.org/docs/configuration#repository-metadata
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: false
+
+# Upptime also supports notifications, assigning issues, and more
+# The values need to be added as repository secrets
+# See https://upptime.js.org/docs/notifications
