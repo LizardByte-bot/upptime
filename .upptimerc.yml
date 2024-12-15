@@ -2,13 +2,24 @@
 owner: LizardByte-bot  # Your GitHub organization or username, where this repository lives
 repo: upptime  # The name of this repository
 
+workflowSchedule:
+  graphs: "0 0 * * *"  # every day at midnight
+  responseTime: "0 23 * * *"  # every day at 11pm
+  staticSite: "0 1 * * *"  # every day at 1am
+  summary: "0 0 * * *"  # every day at midnight
+  updateTemplate: "0 0 * * *"  # every day at midnight
+  updates: "0 3 * * *"  # every day at 3am
+  uptime: "*/5 * * * *"  # every 5 minutes
+
 sites:
   - name: Crowdin
     url: https://translate.lizardbyte.dev
   - name: Developer Dashboard
     url: https://app.lizardbyte.dev/dashboard
+    __dangerous__body_degraded: 'Traceback (most recent call last):'
   - name: Discord bot
     url: $DISCORD_BOT_URL/status
+    __dangerous__body_degraded: '"status": "degraded"'
   - name: Docs
     url: https://docs.lizardbyte.dev
   - name: GameDB
@@ -26,12 +37,16 @@ status-website:
   # favicon supports PNG or SVG
   favicon: https://raw.githubusercontent.com/LizardByte/.github/master/branding/logos/logo-32x32.png
   logoUrl: https://raw.githubusercontent.com/LizardByte/.github/master/branding/logos/logo.svg
-  name: LizardByte
+  name: LizardByte Status
   # intro text
   introTitle: "**LizardByte** status page"
   introMessage: ''
   # custom navbar links
   navbar:
+    - title: Help
+      href: https://app.lizardbyte.dev/support
+    - title: Community
+      href: https://github.com/orgs/LizardByte/discussions
     - title: Status
       href: /
     - title: GitHub
@@ -39,14 +54,16 @@ status-website:
   theme: night
   # custom js
   scripts:
-    - src: https://app.lizardbyte.dev/node_modules/jquery/dist/jquery.min.js
-    - src: https://app.lizardbyte.dev/js/discord.js
-      async: true
+    - src: https://cdn.jsdelivr.net/npm/@lizardbyte/shared-web@latest/dist/discord.js
+  js: "window.onload = function() { window.initDiscord() }"
 
 # https://upptime.js.org/docs/configuration#repository-metadata
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: false
+
+# https://upptime.js.org/docs/configuration/#skip-delete-issues
+skipDeleteIssues: true
 
 # Upptime also supports notifications, assigning issues, and more
 # The values need to be added as repository secrets
