@@ -9,7 +9,8 @@ workflowSchedule:
   summary: "0 0 * * *"  # every day at midnight
   updateTemplate: "0 0 * * *"  # every day at midnight
   updates: "0 3 * * *"  # every day at 3am
-  uptime: "*/5 * * * *"  # every 5 minutes
+  uptime: "*/6 * * * *"  # every 6 minutes, default is every 5 minutes, but has issues getting queued jobs dropped
+  # see: https://stackoverflow.com/a/63192190/11214013
 
 sites:
   - name: Crowdin
