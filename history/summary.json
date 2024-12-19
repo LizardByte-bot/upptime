@@ -45,19 +45,19 @@
     "url": "$DISCORD_BOT_URL/status",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "discord-bot",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 1361,
-    "timeDay": 3278,
-    "timeWeek": 1361,
-    "timeMonth": 1361,
-    "timeYear": 1361,
+    "status": "up",
+    "uptime": "98.90%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
+    "time": 1425,
+    "timeDay": 2854,
+    "timeWeek": 1425,
+    "timeMonth": 1425,
+    "timeYear": 1425,
     "dailyMinutesDown": {
-      "2024-12-19": 19
+      "2024-12-19": 68
     }
   },
   {
